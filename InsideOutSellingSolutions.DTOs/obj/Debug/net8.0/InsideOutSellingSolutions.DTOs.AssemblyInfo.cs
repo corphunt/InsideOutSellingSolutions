@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsideOutSellingSolutions.DTOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c242aaf304816920a2c59002d5797fdeaa2bd7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsideOutSellingSolutions.DTOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsideOutSellingSolutions.DTOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
