@@ -1,0 +1,15 @@
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\bin\Debug\net8.0\InsideOutSellingSolutions.Repository.deps.json
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\bin\Debug\net8.0\InsideOutSellingSolutions.Repository.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\bin\Debug\net8.0\InsideOutSellingSolutions.Repository.pdb
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\bin\Debug\net8.0\InsideOutSellingSolutions.DTOs.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\bin\Debug\net8.0\InsideOutSellingSolutions.DTOs.pdb
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.csproj.AssemblyReference.cache
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.AssemblyInfoInputs.cache
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.AssemblyInfo.cs
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.csproj.CoreCompileInputs.cache
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOu.5193711B.Up2Date
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\refint\InsideOutSellingSolutions.Repository.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.pdb
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\ref\InsideOutSellingSolutions.Repository.dll

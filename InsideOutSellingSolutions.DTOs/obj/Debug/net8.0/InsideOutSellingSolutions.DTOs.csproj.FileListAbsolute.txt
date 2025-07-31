@@ -1,0 +1,11 @@
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\bin\Debug\net8.0\InsideOutSellingSolutions.DTOs.deps.json
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\bin\Debug\net8.0\InsideOutSellingSolutions.DTOs.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\bin\Debug\net8.0\InsideOutSellingSolutions.DTOs.pdb
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\InsideOutSellingSolutions.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\InsideOutSellingSolutions.DTOs.AssemblyInfoInputs.cache
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\InsideOutSellingSolutions.DTOs.AssemblyInfo.cs
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\InsideOutSellingSolutions.DTOs.csproj.CoreCompileInputs.cache
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\InsideOutSellingSolutions.DTOs.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\refint\InsideOutSellingSolutions.DTOs.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\InsideOutSellingSolutions.DTOs.pdb
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\ref\InsideOutSellingSolutions.DTOs.dll

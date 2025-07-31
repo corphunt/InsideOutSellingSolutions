@@ -1,0 +1,103 @@
+﻿@* @model IEnumerable<InsideOutSellingSolutions.DTOs.AccountDTO.ListOfUsersDTO>
+
+@{
+    ViewData["Title"] = "UserIndex";
+}
+
+<h1 style="text-align: center">Users</h1>
+<br />
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Full Name</th>
+            <th>Mobile Number</th>
+            <th>Address</th>
+            <th>Role</th>
+            <th>Email</th>
+            <th>User Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MobileNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+ *@
+
+@model IEnumerable<InsideOutSellingSolutions.DTOs.AccountDTO.ListOfUsersDTO>
+
+@{
+    ViewData["Title"] = "UserIndex";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">User List</h2>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-striped align-middle text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Full Name</th>
+                    <th scope="col">Mobile Number</th>
+                    <th scope="col">Address</th>
+                    <th scope="col">Role</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">User Name</th>
+                    @* <th scope="col">Actions</th> *@
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.RegId</td>
+                        <td>@item.FullName</td>
+                        <td>@item.MobileNo</td>
+                        <td>@item.Address</td>
+                        <td>@item.Role</td>
+                        <td>@item.EmailId</td>
+                        <td>@item.UserName</td>
+                        @* <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.RegId }, new { @class = "btn btn-sm btn-warning me-1" }) 
+                            @Html.ActionLink("Details", "Details", new { id = item.RegId }, new { @class = "btn btn-sm btn-info me-1" }) 
+                            @Html.ActionLink("Delete", "Delete", new { id = item.RegId }, new { @class = "btn btn-sm btn-danger" })
+                        </td> *@
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

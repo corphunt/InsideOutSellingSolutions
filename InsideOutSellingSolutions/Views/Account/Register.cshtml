@@ -1,0 +1,114 @@
+﻿@model InsideOutSellingSolutions.DTOs.AccountDTO.RegisterDTO
+
+@{
+	ViewData["Title"] = "Register";
+}
+
+<div class="container mt-5">
+	<div class="row justify-content-center">
+		<div class="col-md-8">
+			<div class="card shadow-lg border-0 bg-light rounded">
+				<div class="card-header bg-primary text-white text-center">
+					<h3 class="mb-0">User Registration</h3>
+				</div>
+				<div class="card-body">
+					<form asp-action="Register">
+						<div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+						@if (TempData["ErrorMessage"] != null)
+						{
+							<div class="w-50 mx-auto">
+								<div class="alert bg-danger text-white text-center py-2 px-3 small" role="alert">
+									@TempData["ErrorMessage"]
+								</div>
+							</div>
+
+						}
+
+						<div class="row">
+							<div class="col-md-6 mb-3">
+								@Html.EditorFor(m => m.FullName, new { htmlAttributes = new { @class = "form-control", placeholder = "Full Name" } })
+								@Html.ValidationMessageFor(m => m.FullName, "", new { @class = "text-danger" })
+							</div>
+							<div class="col-md-6 mb-3">
+								@Html.EditorFor(m => m.MobileNo, new { htmlAttributes = new { @class = "form-control", placeholder = "Mobile No" } })
+								@Html.ValidationMessageFor(m => m.MobileNo, "", new { @class = "text-danger" })
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-6 mb-3">
+								@Html.EditorFor(m => m.Address, new { htmlAttributes = new { @class = "form-control", placeholder = "Address" } })
+								@Html.ValidationMessageFor(m => m.Address, "", new { @class = "text-danger" })
+							</div>
+							<div class="col-md-6 mb-3">
+								@Html.DropDownListFor(m => m.RoleId, new SelectList(Model.Roles, "ID", "Name"), "Select Role", new { @class = "form-control" })
+								@Html.ValidationMessageFor(m => m.RoleId, "", new { @class = "text-danger" })
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-6 mb-3">
+								@Html.EditorFor(m => m.EmailId, new { htmlAttributes = new { @class = "form-control", placeholder = "Email" } })
+								@Html.ValidationMessageFor(m => m.EmailId, "", new { @class = "text-danger" })
+								@if (ViewBag.EMessage != null)
+								{
+									<span class="text-danger">@ViewBag.EMessage</span>
+								}
+							</div>
+							<div class="col-md-6 mb-3">
+								@Html.EditorFor(m => m.UserName, new { htmlAttributes = new { @class = "form-control", placeholder = "Username" } })
+								@Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+								@if (ViewBag.UMessage != null)
+								{
+									<span class="text-danger">@ViewBag.UMessage</span>
+								}
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-6 mb-3 position-relative">
+								<input asp-for="Password" type="password" class="form-control pe-5" id="password" placeholder="Password" />
+								<span class="position-absolute top-50 end-0 translate-middle-y me-3" style="cursor: pointer;" onclick="togglePasswordVisibility()">
+									<i id="toggleIcon" class="bi bi-eye-slash fs-5 text-secondary"></i>
+								</span>
+								@Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+							</div>
+						</div>
+
+						<div class="text-center mt-4">
+							<button type="submit" class="btn btn-success px-5">Register</button>
+						</div>
+
+						<p class="text-center mt-3 fs-5">
+							Already have an account? <a href="@Url.Action("Login", "Account")"><strong>Login</strong></a>
+						</p>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+
+	<script>
+		function togglePasswordVisibility() {
+			const input = document.getElementById("password");
+			const icon = document.getElementById("toggleIcon");
+
+			if (input.type === "password") {
+				input.type = "text";
+				icon.classList.remove("bi-eye-slash");
+				icon.classList.add("bi-eye");
+			} else {
+				input.type = "password";
+				icon.classList.remove("bi-eye");
+				icon.classList.add("bi-eye-slash");
+			}
+		}
+	</script>
+}
