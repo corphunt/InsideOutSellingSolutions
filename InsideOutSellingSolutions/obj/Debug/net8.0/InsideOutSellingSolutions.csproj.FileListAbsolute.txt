@@ -267,3 +267,4 @@ C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions\obj\Deb
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions\obj\Debug\net8.0\InsideOutSellingSolutions.pdb
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions\obj\Debug\net8.0\InsideOutSellingSolutions.genruntimeconfig.cache
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions\obj\Debug\net8.0\ref\InsideOutSellingSolutions.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions\obj\Debug\net8.0\InsideOutSellingSolutions.sourcelink.json

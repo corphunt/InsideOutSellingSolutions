@@ -3,26 +3,8 @@
   "WorkspaceRootPath": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|c:\\insideout project\\insideoutsellingsolutions\\insideoutsellingsolutions\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35EA5BF-AC00-46BF-98D0-A4C84C58AFF2}|..\\InsideOutSellingSolutions.Repository\\InsideOutSellingSolutions.Repository.csproj|c:\\insideout project\\insideoutsellingsolutions\\insideoutsellingsolutions.repository\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F95638D-524F-4702-B69E-6BB178A3277B}|..\\InsideOutSellingSolutions.DTOs\\InsideOutSellingSolutions.DTOs.csproj|c:\\insideout project\\insideoutsellingsolutions\\insideoutsellingsolutions.dtos\\accountdto\\listofusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|c:\\insideout project\\insideoutsellingsolutions\\insideoutsellingsolutions\\views\\account\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|solutionrelative:views\\account\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|c:\\insideout project\\insideoutsellingsolutions\\insideoutsellingsolutions\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|c:\\insideout project\\insideoutsellingsolutions\\insideoutsellingsolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|c:\\insideout project\\insideoutsellingsolutions\\insideoutsellingsolutions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB67AD75-8CDC-4335-9574-3CD1EFAA0C06}|InsideOutSellingSolutions.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,95 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListOfUsersDTO.cs",
-              "DocumentMoniker": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions.DTOs\\AccountDTO\\ListOfUsersDTO.cs",
-              "RelativeDocumentMoniker": "..\\InsideOutSellingSolutions.DTOs\\AccountDTO\\ListOfUsersDTO.cs",
-              "ToolTip": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions.DTOs\\AccountDTO\\ListOfUsersDTO.cs",
-              "RelativeToolTip": "..\\InsideOutSellingSolutions.DTOs\\AccountDTO\\ListOfUsersDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T11:43:56.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserIndex.cshtml",
-              "DocumentMoniker": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Views\\Account\\UserIndex.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\UserIndex.cshtml",
-              "ToolTip": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Views\\Account\\UserIndex.cshtml",
-              "RelativeToolTip": "Views\\Account\\UserIndex.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T11:27:08.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T12:25:42.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T12:21:57.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions.Repository\\Repository\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "..\\InsideOutSellingSolutions.Repository\\Repository\\AccountRepository.cs",
-              "ToolTip": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions.Repository\\Repository\\AccountRepository.cs",
-              "RelativeToolTip": "..\\InsideOutSellingSolutions.Repository\\Repository\\AccountRepository.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAUwI0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T12:12:35.649Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T08:54:07.929Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\InsideOut Project\\InsideOutSellingSolutions\\InsideOutSellingSolutions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAowJgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T10:03:33.004Z",
               "EditorCaption": ""
             }
           ]

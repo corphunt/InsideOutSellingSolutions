@@ -13,3 +13,4 @@ C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Reposit
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\refint\InsideOutSellingSolutions.Repository.dll
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.pdb
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\ref\InsideOutSellingSolutions.Repository.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.Repository\obj\Debug\net8.0\InsideOutSellingSolutions.Repository.sourcelink.json

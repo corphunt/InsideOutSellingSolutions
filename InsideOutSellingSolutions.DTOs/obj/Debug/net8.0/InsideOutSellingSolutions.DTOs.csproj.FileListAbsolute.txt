@@ -9,3 +9,4 @@ C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\ob
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\refint\InsideOutSellingSolutions.DTOs.dll
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\InsideOutSellingSolutions.DTOs.pdb
 C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\ref\InsideOutSellingSolutions.DTOs.dll
+C:\InsideOut Project\InsideOutSellingSolutions\InsideOutSellingSolutions.DTOs\obj\Debug\net8.0\InsideOutSellingSolutions.DTOs.sourcelink.json

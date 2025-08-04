@@ -11,7 +11,6 @@ builder.Services.AddAuthentication("MyCookieAuth")
         options.LoginPath = "/Account/Login"; // redirect here if not authenticated
         //options.AccessDeniedPath = "/Home/AccessDenied"; // ✅ Redirect here if not authorized (403) (Newly Added)
     });
-//hello world .....
 
 builder.Services.AddAuthorization();
 
